@@ -32,4 +32,4 @@ My starter project was the binary blaster, which is a game in which the player c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[![Starter Project](starter thumbnail.png)](https://www.youtube.com/watch?v=CaCazFBhYKs "Starter Project"){:target="_blank" rel="noopener"}
+[![Starter Project]([starter thumbnail.png](https://github.com/BlueStamp-Engineering-2022/Sid_BSE_Project/blob/gh-pages/starter%20thumbnail.png?raw=true))](https://www.youtube.com/watch?v=CaCazFBhYKs "Starter Project"){:target="_blank" rel="noopener"}
