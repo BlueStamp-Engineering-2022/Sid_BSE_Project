@@ -25,6 +25,9 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 # Starter Project
 My starter project was the binary blaster, which is a game in which the player converts hexadecimal numbers to binary numbers. The device is battery powered and has two eight-segment displays along with four switches. This is my first milestone. I’ve finished assembling the device, and it is fully functional.After powering the device on, the game starts. The hexadecimal number is shown on the display, and I can put in the binary version using the buttons. During this project, I enjoyed being able to brush up on my soldering skills, as it’s something that I haven’t done in a while. One thing that I struggled on was the direction of the buttons. If they were put in the wrong way, their embedded LEDs would not light up. I had originally soldered three of the buttons the wrong way, so I had to cut the traces on the PCB and manually bridge a few pads to fix the issue.In the future, it might be interesting to edit the preinstalled code on the microcontroller to change the way that the game works.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CX9QcRW_dco/0.jpg)](https://www.youtube.com/watch?v=CX9QcRW_dco)
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "Starter Project"){:target="_blank" rel="noopener"}
