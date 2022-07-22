@@ -1,16 +1,16 @@
 ﻿# Raspberry Pi Image Recognition
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+The goal of this project was to use TensorFlow on a Raspberry Pi 4 to be able to classify and label objects from a camera. In the future, I can expand on this project by training a new TensorFlow model that can detect new objects.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Sid T. | DVHS | Electrical Engineering | Incoming Junior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+<!--![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}-->
 
 # Second Milestone
 My second milestone was installing TensorFlow Lite on the Raspberry Pi. Doing so lets me run an object detection model so that I can identify objects using a USB webcam. As you can see, if I point the camera at my laptop, it draws a box around it and detects that it is a laptop. During this process, I enjoyed learning how TensorFlow works. I was also able to educate myself on how to efficiently use a Linux terminal, which is a skill that I’ve developed a little in the past, but not to the same degree as I did during this project. Although installing TensorFlow originally seemed like an easy process, it turned out to not be one, as the full version of TensorFlow is not developed for use with the Raspberry Pi. Because of this, it is complicated to install and doesn’t perform very well. To remedy this, I switched to installing TensorFlow Lite, which performs much better. In the future, I would like to train a new model for object detection. One idea that I’ve started working on is a model that can detect what breed a dog is, which I would train using a dataset of 20,000 pictures of dogs from Kaggle.com.
