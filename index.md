@@ -3,7 +3,7 @@ The goal of this project was to use TensorFlow on a Raspberry Pi 4 to be able to
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Sid T. | DVHS | Electrical Engineering | Incoming Junior
+| Sid | DVHS | Electrical Engineering | Incoming Junior
 
 <!--![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
